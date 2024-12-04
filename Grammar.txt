@@ -1,0 +1,5 @@
+S,W,R,Z,A,Y,X
+b,r
+S,W,R,S,R,W,S,R,Z,S,R,R,Z,W,R,W,A,Y,Y,X,A,R,R,R
+X,b,R,r
+10
